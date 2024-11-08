@@ -1,0 +1,239 @@
+{
+    "editor.suggestSelection": "first",
+    "python.languageServer": "Pylance",
+    "git.enableSmartCommit": true,
+    "gitlens.advanced.messages": {
+        "suppressCreatePullRequestPrompt": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.allowForcePush": true,
+    "git.confirmForcePush": true,
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "*.org": "org"
+    },
+    "files.trimTrailingWhitespace": true,
+    "editor.codeActionsOnSave": {
+        "source.sortImports": "explicit",
+    },
+    "editor.formatOnType": true,
+    "files.eol": "\n",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "files.autoSave": "onFocusChange",
+    "css.lint.compatibleVendorPrefixes": "warning",
+    "editor.tabCompletion": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.bracketPairColorization.enabled": true,
+    "typescript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "workbench.sideBar.location": "right",
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.startupEditor": "none",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "typescript.suggest.enabled": false,
+    "emmet.excludeLanguages": [
+        "javascriptreact"
+    ],
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBorder": "#2f81f7",
+        "[GitHub Dark Default]": {
+            "titleBar.activeBackground": "#0d1117",
+            "sideBar.background": "#0d1117",
+            "activityBar.background": "#0d1117",
+            "tab.activeBackground": "#0d1117",
+            "tab.activeBorder": "#2f81f7",
+            "tab.activeBorderTop": "#2f81f7",
+            "tab.inactiveBackground": "#0d1117",
+            "panel.background": "#0d1117",
+            "statusBar.foreground": "#2f81f7"
+        }
+    },
+    "editor.tokenColorCustomizations": {
+        "[GitHub Dark Default]": {
+            "comments": "#6A9955",
+            "variables": "#b5cea8",
+            "strings": "#ce9178",
+        },
+    },
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+    },
+    "workbench.colorTheme": "Night Owl Theme",
+    "[csharp]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file",
+        "editor.detectIndentation": false
+    },
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true,
+        // "editor.formatOnSaveMode": "modificationsIfAvailable",
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+    },
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/env",
+        "/usr/bin/python",
+    ],
+    "[svelte]": {
+        "editor.detectIndentation": false,
+        "editor.defaultFormatter": "svelte.svelte-vscode",
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "svelte.enable-ts-plugin": true,
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "magit.forge-enabled": true,
+    "ionic.shellPath": "/bin/zsh",
+    "ionic.javaHome": "C:/Program Files/Android/Android Studio/jbr/bin",
+    "redhat.telemetry.enabled": false,
+    "magit.quick-switch-enabled": true,
+    "editor.formatOnSave": true,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.indentSize": "tabSize",
+    "editor.tabSize": 4,
+    "editor.stickyTabStops": true,
+    "editor.insertSpaces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+    "terminal.integrated.env.linux": {},
+    "terminal.integrated.defaultLocation": "editor",
+    "debug.openDebug": "neverOpen",
+    "debug.internalConsoleOptions": "neverOpen",
+    "terminal.integrated.env.windows": {},
+    "terminal.integrated.confirmOnKill": "never",
+    "black-formatter.args": [
+        "--line-length",
+        "120"
+    ],
+    "editor.minimap.enabled": false,
+    "godot_tools.editor_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Godot Engine\\godot.windows.opt.tools.64",
+    "godot_tools.reconnect_attempts": 5,
+    "godot_tools.gdscript_lsp_server_port": 6005,
+    "python.terminal.activateEnvironment": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "remote.autoForwardPortsSource": "hybrid",
+    // "python.analysis.extraPaths": [
+    //     "${workspaceFolder}/env",
+    //     "/usr/bin/python",
+    // ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "ruff.format.args": [
+        "\"args\": [\"--config=ruff.toml\"]"
+    ],
+    "ruff.lint.args": [
+        "\"args\": [\"--config=ruff.toml\"]"
+    ],
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.autohide": true,
+    "editor.minimap.showRegionSectionHeaders": false,
+    "workbench.activityBar.location": "top",
+    "window.menuBarVisibility": "compact",
+    "editor.fontFamily": "Monaspace Krypton, monospace",
+    "editor.fontSize": 13,
+    "explorer.confirmPasteNative": false,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "svelte"
+    ],
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown",
+        "svelte"
+    ],
+    "svelte.plugin.svelte.format.config.svelteStrictMode": true,
+    "eslint.format.enable": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "codeium.enableConfig": {
+        "*": true,
+        "postcss": true
+    },
+    "codeium.enableCodeLens": false,
+    "explorer.compactFolders": false,
+    // Custom css styles for vscode
+    "vscode_custom_css.imports": [
+        "file:///D:/custom-vscode.css",
+        "file:///D:/custom-vscode.js",
+    ],
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/env",
+        "/usr/bin/python"
+    ],
+    "window.autoDetectHighContrast": false,
+}
